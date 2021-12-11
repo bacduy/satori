@@ -6,13 +6,13 @@
 
  // Your web app's Firebase configuration
  const firebaseConfig = {
-   apiKey: "AIzaSyBOTyrb896827zBPNjP499GT3YS9Ax5OOU",
-   authDomain: "blogging-website-67c15.firebaseapp.com",
-   projectId: "blogging-website-67c15",
-   storageBucket: "blogging-website-67c15.appspot.com",
-   messagingSenderId: "397710928364",
-   appId: "1:397710928364:web:322ac9bb607dec7819b8c9"
- };
+  apiKey: "AIzaSyAOExbK8YJEfcvFw4xZ3plQHT3mFc3SqqQ",
+  authDomain: "satori-19903.firebaseapp.com",
+  projectId: "satori-19903",
+  storageBucket: "satori-19903.appspot.com",
+  messagingSenderId: "236821111513",
+  appId: "1:236821111513:web:49f7020bfcae3397d654c8"
+};
 
 firebase.initializeApp(firebaseConfig);
 let db = firebase.firestore();
